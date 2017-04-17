@@ -1,2 +1,4 @@
 BRATS2015_Training/
 BRATS2015_Training.zip
+.ipynb_checkpoints/Tumor Segmentation-checkpoint.ipynb
+*.npy
